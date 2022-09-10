@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "FarmFolkNFT",
-  "sourceName": "contracts/FarmFolkNFT.sol",
+  "contractName": "ReadTheAir",
+  "sourceName": "contracts/ReadTheAir.sol",
   "abi": [
     {
       "inputs": [
@@ -1108,7 +1108,7 @@
               "type": "uint8"
             }
           ],
-          "internalType": "struct FarmFolkNFT.WhitelistClaimPass",
+          "internalType": "struct ReadTheAir.WhitelistClaimPass",
           "name": "whitelistClaimPass",
           "type": "tuple"
         }
